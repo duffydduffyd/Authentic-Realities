@@ -26,9 +26,9 @@
 [![Process Video2](https://img.youtube.com/vi/ssxeGMM4z6g/0.jpg)](https://www.youtube.com/watch?v=ssxeGMM4z6g)
 
 
-<img src="100ksummary.gif" alt="Smiley face" height="42" width="42">
-<img src="80ksummary.png" alt="Smiley face" height="42" width="42">
-<img src="70ksummary.gif" alt="Smiley face" height="42" width="42">
+<img src="100ksummary.gif">
+<img src="80ksummary.png">
+<img src="70ksummary.gif">
 
 <img src="100k.gif" alt="Smiley face" height="42" width="42">
 <img src="80k.gif" alt="Smiley face" height="42" width="42">
