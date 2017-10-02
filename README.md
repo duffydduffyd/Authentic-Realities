@@ -26,12 +26,22 @@
 [![Process Video2](https://img.youtube.com/vi/ssxeGMM4z6g/0.jpg)](https://www.youtube.com/watch?v=ssxeGMM4z6g)
 
 
+
+
 <img src="100ksummary.png">
+
+
 <img src="80ksummary.png">
+
+
 <img src="70ksummary.png">
 
 <img src="100k.png">
+
+
 <img src="80k.png">
+
+
 <img src="70k.png">
 
 ## Link to website
