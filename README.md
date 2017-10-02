@@ -36,13 +36,6 @@
 
 <img src="70ksummary.png">
 
-<img src="100k.png">
-
-
-<img src="80k.png">
-
-
-<img src="70k.png">
 
 ## Link to website
 [Project Authentic Realities](https://proj-authentic-realities.herokuapp.com/index.html)
