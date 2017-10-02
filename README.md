@@ -26,13 +26,13 @@
 [![Process Video2](https://img.youtube.com/vi/ssxeGMM4z6g/0.jpg)](https://www.youtube.com/watch?v=ssxeGMM4z6g)
 
 
-<img src="100ksummary.gif">
+<img src="100ksummary.png">
 <img src="80ksummary.png">
-<img src="70ksummary.gif">
+<img src="70ksummary.png">
 
-<img src="100k.gif" alt="Smiley face" height="42" width="42">
-<img src="80k.gif" alt="Smiley face" height="42" width="42">
-<img src="70k.gif" alt="Smiley face" height="42" width="42">
+<img src="100k.png">
+<img src="80k.png">
+<img src="70k.png">
 
 ## Link to website
 [Project Authentic Realities](https://proj-authentic-realities.herokuapp.com/index.html)
